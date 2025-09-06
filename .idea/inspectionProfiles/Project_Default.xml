@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="places.models.PlaceModel.objects" />
+          <option value="reserves.models.ReserveModel.objects" />
+          <option value="dialogs.models.DialogModel.*" />
+          <option value="messanger.models.MessageModel.objects" />
+          <option value="casts.models.CastModel.objects" />
+          <option value="contests.models.ContestModel.objects" />
+          <option value="anticaptchaofficial.imagetocoordinates" />
+          <option value="captcha_test_solver.imagetocoordinates" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
